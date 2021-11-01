@@ -1,0 +1,1 @@
+(()=>{"use strict";var e=document.getElementById("menu-icon"),t=document.getElementById("navbar");e.addEventListener("click",(function(){t.classList.toggle("hidden")}))})();
